@@ -1,4 +1,4 @@
- // < your name >
+ // < name >
  // CSCI 201: Lab assignment 1
  #include <cstdlib>
  #include <iostream>
